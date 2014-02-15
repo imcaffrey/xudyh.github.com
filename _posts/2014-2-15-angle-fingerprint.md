@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "寒假颓废实录"
+title: "天使的指纹"
 category: "Stefanie"
 tags: ["Stefanie"]
 ---
