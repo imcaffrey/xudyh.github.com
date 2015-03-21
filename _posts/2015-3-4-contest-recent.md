@@ -44,7 +44,7 @@ ABCD都水题。。。
 
 我想不fst D应该能进top 10了吧。。。感觉打不太上去了。。。QAQ
 
-##VK Cup
+##VK Cup qual
 
 dyh大战俄文。。。然后脑残写错。。。
 
